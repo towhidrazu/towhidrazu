@@ -4,19 +4,15 @@
 <p>&nbsp;</p>
 
 ✨ **About me at a glance**✨
+- 👀 I have a strong passion for Data Analysis and thrive on acquiring new skills.
+- 🌱 I taught myself SQL and Power BI
+- 📉 I am skilled in Data Cleaning and Wrangling, Data Visualization, Data Analysis, as well as Dashboard Design and Development.
+- 💉 I have a clinical Healthcare background and now I am a Healthcare Data Analyst.
 
 
+- 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/islammdtowhidul/)
 <!--
-- 👀 I’m addicted to Data Analysis and I love learning new skills
-- 💉 I have a clinical Healthcare background and now I am a Healthcare Data Analyst
-- 🌱 I self-taught SQL and Tableau
-- 📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
 
-
-- 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/thaiscooke/)
-
- 
- 
 <p>&nbsp;</p>
  
  💡**Skills**💡:
