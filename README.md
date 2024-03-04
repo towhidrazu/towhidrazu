@@ -7,7 +7,7 @@
 - 👀 I have a strong passion for Data Analysis and thrive on acquiring new skills.
 - 🌱 I taught myself SQL and Power BI
 - 📉 I am skilled in Data Cleaning and Wrangling, Data Visualization, Data Analysis, as well as Dashboard Design and Development.
-- 💉 I have a clinical Healthcare background and now I am a Healthcare Data Analyst.
+- 💉 I have a banking background of 10 years and experience working with banking data.
 - 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/islammdtowhidul/)
 
 <p>&nbsp;</p>
