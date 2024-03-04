@@ -13,8 +13,9 @@
 
 <p>&nbsp;</p>
 
-- 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/islammdtowhidul/)
-- 📫 How to reach me razu.towhid@gmail.com
+📫 How to reach me:
+-  [LinkedIn](https://www.linkedin.com/in/islammdtowhidul/)
+-  razu.towhid@gmail.com
 
 <p>&nbsp;</p>
 
