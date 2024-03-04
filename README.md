@@ -8,17 +8,12 @@
 - 🌱 I taught myself SQL and Power BI
 - 📉 I am skilled in Data Cleaning and Wrangling, Data Visualization, Data Analysis, as well as Dashboard Design and Development.
 - 💉 I have a clinical Healthcare background and now I am a Healthcare Data Analyst.
-
-
 - 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/islammdtowhidul/)
-<!--
 
-<p>&nbsp;</p>
- 
  💡**Skills**💡:
  
-- Microsoft SQL Server
-- Tableau
+- PostgreSQL
+- Power BI
 - Microsoft Excel
 - Google Sheets
 
@@ -29,10 +24,17 @@
  📚**Courses and Certifications**📚
  
  - Google Data Analytics Certification
+
+<p>&nbsp;</p>
+ 
  
  
  
 <p>&nbsp;</p>
+
+
+<!--
+
  
  ⚡**Projects on Tableau**⚡
  
