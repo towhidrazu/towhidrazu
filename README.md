@@ -32,10 +32,12 @@
 
 👩‍💻**Projects on SQL**👩‍💻
 - **Famous Paintings- Data analysis with SQL**: Click [HERE](https://github.com/towhidrazu/Famous_Paintings-Data_analysis_with_SQL/blob/main/README.md)
+- **Cyclistic Bike Share- Data analysis with SQL & Power BI**: Click [HERE](https://github.com/towhidrazu/Cyclistic_Bike_Share-Data_analysis_with_SQL_and_Power_BI)
  
 <p>&nbsp;</p>
 
 ⚡**Projects on Power BI**⚡
+- **Cyclistic Bike Share- Data analysis with SQL & Power BI**: Click [HERE](https://github.com/towhidrazu/Cyclistic_Bike_Share-Data_analysis_with_SQL_and_Power_BI)
 
 
 <!--
