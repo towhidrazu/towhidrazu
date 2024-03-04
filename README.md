@@ -31,57 +31,23 @@
 <p>&nbsp;</p>
 
 👩‍💻**Projects on SQL**👩‍💻
+
 - **Famous Paintings- Data analysis with SQL**: Click [HERE](https://github.com/towhidrazu/Famous_Paintings-Data_analysis_with_SQL/blob/main/README.md)
+ 
 - **Cyclistic Bike Share- Data analysis with SQL & Power BI**: Click [HERE](https://github.com/towhidrazu/Cyclistic_Bike_Share-Data_analysis_with_SQL_and_Power_BI)
  
 <p>&nbsp;</p>
 
 ⚡**Projects on Power BI**⚡
+
 - **Cyclistic Bike Share- Data analysis with SQL & Power BI**: Click [HERE](https://github.com/towhidrazu/Cyclistic_Bike_Share-Data_analysis_with_SQL_and_Power_BI)
 
 
-<!--
 
- 
- ⚡**Projects on Tableau**⚡
- 
- - **Space Challenge**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/SpaceMissions_16605611230430/Dashboard1)
- 
- - **NYC_Airbnb**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/NYC_airbnb_16590391722840/Story1)
- 
- - **Aibnb Seattle**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/AirbnbSeattle_16587973599060/Dashboard1)
- 
- - **BellaBeat Capstone Project**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/BellaBeat_Capstone_Project/BellabeatFitnessAnalysis)
- 
- - **COVID Dashboard**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/CovidDashboardProject_16450981925780/Dashboard1)
- 
- - **Interactive Halloween Candy Tableau Dashboard**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/HalloweenCandyAnalysis/Dashboard1)
- 
  <p>&nbsp;</p>
+
  
- 
- 👩‍💻**Projects on SQL**👩‍💻
- 
-- **Cleaning Data in SQL**: Click [HERE](https://github.com/ThaisCooke/Nashville_Housing/blob/main/Data_Cleaning_SQL)
-
-- **Danny's Diner**: Click [HERE](https://github.com/ThaisCooke/DannysDiner/blob/main/code)
-
-- **Pizza Runner**: Click [HERE](https://github.com/ThaisCooke/pizza_runner)
-
-- **Aibnb_NYC**: Click [HERE](https://github.com/ThaisCooke/NYC_airbnb/blob/main/airbnb)
-
-- **Space Missions**: Click [HERE](https://github.com/ThaisCooke/Space_missions/blob/main/space_missions)
-
-- **Game of Thrones**: Click [HERE](https://github.com/ThaisCooke/GOT/blob/main/SQLQueryGOT.sql)
-
-- **BellaBeat**: Click [HERE](https://github.com/ThaisCooke/Bellabeat/blob/main/capstoneproject)
-
-- **COVID Project**: Click [HERE](https://github.com/ThaisCooke/COVIDProject/blob/main/COVID)
-
-- **Halloween Candy Analysis**: Click [HERE](https://github.com/ThaisCooke/halloweencandy/blob/main/candy)
-
-
-
+<!--
 
  <p>&nbsp;</p>
  
