@@ -4,6 +4,8 @@
 <p>&nbsp;</p>
 
 ✨ **About me at a glance**✨
+
+
 <!--
 - 👀 I’m addicted to Data Analysis and I love learning new skills
 - 💉 I have a clinical Healthcare background and now I am a Healthcare Data Analyst
