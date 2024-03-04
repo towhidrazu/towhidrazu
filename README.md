@@ -31,7 +31,7 @@
 <p>&nbsp;</p>
 
 👩‍💻**Projects on SQL**👩‍💻
-
+- **Famous Paintings- Data analysis with SQL**: Click [HERE](https://github.com/towhidrazu/Famous_Paintings-Data_analysis_with_SQL/blob/main/README.md)
  
 <p>&nbsp;</p>
 
