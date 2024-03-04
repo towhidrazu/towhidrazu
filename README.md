@@ -28,11 +28,14 @@
  - Google Data Analytics Certification
 
 
- 
- 
- 
+<p>&nbsp;</p>
+
+ 👩‍💻**Projects on SQL**👩‍💻
+
  
 <p>&nbsp;</p>
+
+ ⚡**Projects on Tableau**⚡
 
 
 <!--
