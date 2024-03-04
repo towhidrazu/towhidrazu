@@ -10,6 +10,8 @@
 - 💉 I have a clinical Healthcare background and now I am a Healthcare Data Analyst.
 - 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/islammdtowhidul/)
 
+<p>&nbsp;</p>
+
  💡**Skills**💡:
  
 - PostgreSQL
@@ -25,7 +27,7 @@
  
  - Google Data Analytics Certification
 
-<p>&nbsp;</p>
+
  
  
  
