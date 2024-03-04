@@ -30,12 +30,12 @@
 
 <p>&nbsp;</p>
 
- 👩‍💻**Projects on SQL**👩‍💻
+👩‍💻**Projects on SQL**👩‍💻
 
  
 <p>&nbsp;</p>
 
- ⚡**Projects on Tableau**⚡
+⚡**Projects on Power BI**⚡
 
 
 <!--
