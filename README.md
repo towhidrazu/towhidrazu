@@ -31,6 +31,8 @@
  📚**Courses and Certifications**📚
  
  - Google Data Analytics Certification. [Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/WCQSR8TZXXPF)
+ 
+ - Stanford University's Code in Place- Python programming language. [Credential](https://coursera.org/verify/PTM5PM9BLL9Z)
 
 
 <p>&nbsp;</p>
