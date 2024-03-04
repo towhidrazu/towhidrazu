@@ -55,7 +55,7 @@
 
  <p>&nbsp;</p>
 
-[![Towhid's GitHub stats](https://github-readme-stats.vercel.app/api?username=towhidrazu&count_private=true&show_icons=true&theme=merko&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Towhid's GitHub stats](https://github-readme-stats.vercel.app/api?username=towhidrazu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&show_icons=true&theme=merko&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
  
 <!--
 
