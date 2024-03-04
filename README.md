@@ -25,7 +25,7 @@
 
  📚**Courses and Certifications**📚
  
- - [Google Data Analytics Certification](https://www.coursera.org/account/accomplishments/specialization/WCQSR8TZXXPF)
+ - Google Data Analytics Certification[Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/WCQSR8TZXXPF)
 
 
 <p>&nbsp;</p>
