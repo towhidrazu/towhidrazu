@@ -9,7 +9,7 @@
 - 📉 I am skilled in Data Cleaning and Wrangling, Data Visualization, Data Analysis, as well as Dashboard Design and Development.
 - 🌱 I’m currently learning Python for data analysis.
 - 🌱 I am currently pursuing [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics).
-- 💉 I have a banking background of 10 years and experience working with banking data.
+- 💉 I have a banking background of 11 years and experience working with banking, branch performace, loans and advances related data.
 
 <p>&nbsp;</p>
 
