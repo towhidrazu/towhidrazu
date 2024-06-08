@@ -51,6 +51,7 @@
 ⚡**Projects on Power BI**⚡
 
 - **Cyclistic Bike Share- Data analysis with SQL & Power BI**: Click [HERE](https://github.com/towhidrazu/Cyclistic_Bike_Share-Data_analysis_with_SQL_and_Power_BI)
+- **Awesome Chocolate- business performance dashboard**: Click [HERE](https://github.com/towhidrazu/Awesome_Chocolate_business_performance_dashboard-Power_BI/blob/main/README.md)
 
 
 
