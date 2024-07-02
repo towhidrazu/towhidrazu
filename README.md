@@ -5,10 +5,9 @@
 
 ✨ **About me at a glance**✨
 - 👀 I have a strong passion for Data Analysis and thrive on acquiring new skills.
-- 🌱 I taught myself SQL and Power BI.
+- 🌱 I taught myself SQL, Python and Power BI.
 - 📉 I am skilled in Data Cleaning and Wrangling, Data Visualization, Data Analysis, as well as Dashboard Design and Development.
 - ⚡ I've completed [Google Data Analytics Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/WCQSR8TZXXPF).
-- 🌱 I’m currently learning Python for data analysis.
 - 🌱 I am currently pursuing [Google Advanced Data Analytics Professional Certificate.](https://www.coursera.org/professional-certificates/google-advanced-data-analytics).
 - 💉 I have a banking background of 11 years and experience working with banking, branch performace, loans and advances related data.
 
@@ -23,6 +22,8 @@
  💡**Skills**💡:
  
 - PostgreSQL
+- Python
+- Pandas
 - Power BI
 - Microsoft Excel
 - Google Sheets
