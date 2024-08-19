@@ -38,6 +38,13 @@
  
  - Stanford University's Code in Place- Python programming language. [Credential](https://codeinplace.stanford.edu/cip3/certificate/v7bomj)
 
+<p>&nbsp;</p>
+
+👩‍💻**Projects on Python**👩‍💻
+
+- **Examine and prepare data with Python for analysis**: Click [HERE](https://github.com/towhidrazu/Examine_and_prepare_data_for_analysis_with_Python/blob/main/Activity_Course%202%20Automatidata%20project%20lab.ipynb)
+ 
+- **Data Wrangling & Data Preparation in Python**: Click [HERE](https://github.com/towhidrazu/Data-Wrangling-Data-Preparation-in-Python/tree/main)
 
 <p>&nbsp;</p>
 
