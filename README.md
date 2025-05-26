@@ -35,6 +35,8 @@
 
  📚**Courses and Certifications**📚
  
+ - Post-graduate Certificate in Artificial Intelligence and Data Analytics from Saskatchewan Polytechnic [Grade: 92.17]
+   
  - Google Data Analytics Certification. [Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/WCQSR8TZXXPF)
  
  - Stanford University's Code in Place- Python programming language. [Credential](https://codeinplace.stanford.edu/cip3/certificate/v7bomj)
