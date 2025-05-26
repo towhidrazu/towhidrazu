@@ -7,7 +7,7 @@
 - 👀 I have a strong passion for Data Analysis and thrive on acquiring new skills.
 - 🌱 I am an Artificial Intelligence and Data Analytics Graduate from Saskatchewan Polytechnic.
 - 📉 I am skilled in Data Cleaning and Wrangling, Data Visualization, Data Analysis, as well as Dashboard Design and Development &
-- ⚡Developing and maintaining Machine Learning (ML) models, working with Artificial Intelligence (AI) in Natural Language Processing (NLP), Computer Vision.
+- ⚡Developing and maintaining Machine Learning (ML) models, working with Artificial Intelligence (AI) in Natural Language Processing (NLP), and Computer Vision.
 - ⚡ I've completed [Google Data Analytics Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/WCQSR8TZXXPF).
 - 🌱 Pursuing [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics).
 - 💉 I have 11 years of experience in the financial industry working with banking, branch performance, loans, and credit-related data.
@@ -23,11 +23,20 @@
  💡**Skills**💡:
  
 - PostgreSQL
+- MS SQL Server
+- MongoDB (NoSQL)
 - Python
 - Pandas
 - Power BI
+- Tableau
 - Microsoft Excel
 - Google Sheets
+- Data Extraction & Web Scraping (Beautiful Soup)
+- Extract, Transform & Load (ETL)
+- Machine learning (ML)
+- Artificial Intelligence (AI)
+- Natural Language Processing (NLP)
+- Computer Vision
 
 
  <p>&nbsp;</p>
@@ -69,6 +78,7 @@
   
 - **Shoe Selling Dashboard- Interactive and dynamic dashboard in Power BI**: Click [HERE](https://github.com/towhidrazu/Shoe-Selling-Dashboard)
 
+<p>&nbsp;</p>
 
 ⚡**Machine Learning and Artificial Intelligence**⚡
 
