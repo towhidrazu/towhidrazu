@@ -53,6 +53,8 @@
 
 👩‍💻**Projects on SQL**👩‍💻
 
+- **Database Modeling, Normalization, ER-diagram, and Queries**: Click [HERE](https://github.com/towhidrazu/Database-Modeling-ER-diagram-and-Queries/)
+
 - **Famous Paintings- Data analysis with SQL**: Click [HERE](https://github.com/towhidrazu/Famous_Paintings-Data_analysis_with_SQL/blob/main/README.md)
  
 - **Cyclistic Bike Share- Data analysis with SQL & Power BI**: Click [HERE](https://github.com/towhidrazu/Cyclistic_Bike_Share-Data_analysis_with_SQL_and_Power_BI)
@@ -62,7 +64,19 @@
 ⚡**Projects on Power BI**⚡
 
 - **Cyclistic Bike Share- Data analysis with SQL & Power BI**: Click [HERE](https://github.com/towhidrazu/Cyclistic_Bike_Share-Data_analysis_with_SQL_and_Power_BI)
+  
 - **Awesome Chocolate- business performance dashboard**: Click [HERE](https://github.com/towhidrazu/Awesome_Chocolate_business_performance_dashboard-Power_BI/blob/main/README.md)
+  
+- **Shoe Selling Dashboard- Interactive and dynamic dashboard in Power BI**: Click [HERE](https://github.com/towhidrazu/Shoe-Selling-Dashboard)
+
+
+⚡**Machine Learning and Artificial Intelligence**⚡
+
+- **Revolutionizing Dermatology: AI-Driven Classification of Skin Lesions**: Click [HERE](https://github.com/towhidrazu/Revolutionizing-Dermatology-AI-Driven-Classification-of-Skin-Lesions/)
+  
+- **Number Plate Recognition by OpenCV & Easy OCR - Computer Vision**: Click [HERE](https://github.com/towhidrazu/Number_plate_recognition_by_OpenCV)
+  
+- **Titanic-Machine Learning from Disaster: Naive Bayes & Support Vector Machine model, Evaluation Matrices**: Click [HERE](https://github.com/towhidrazu/Machine-Learning-NB-SVM-model-Evaluation-Mtrices--Titanic--Machine-Learning-from-Disaster)
 
 
 
