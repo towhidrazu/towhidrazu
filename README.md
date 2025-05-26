@@ -5,11 +5,12 @@
 
 ✨ **About me at a glance**✨
 - 👀 I have a strong passion for Data Analysis and thrive on acquiring new skills.
-- 🌱 I taught myself SQL, Python and Power BI.
-- 📉 I am skilled in Data Cleaning and Wrangling, Data Visualization, Data Analysis, as well as Dashboard Design and Development.
+- 🌱 I am an Artificial Intelligence and Data Analytics Graduate from Saskatchewan Polytechnic.
+- 📉 I am skilled in Data Cleaning and Wrangling, Data Visualization, Data Analysis, as well as Dashboard Design and Development &
+- ⚡Developing and maintaining Machine Learning (ML) models, working with Artificial Intelligence (AI) in Natural Language Processing (NLP), Computer Vision.
 - ⚡ I've completed [Google Data Analytics Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/WCQSR8TZXXPF).
-- 🌱 I am currently pursuing [Google Advanced Data Analytics Professional Certificate.](https://www.coursera.org/professional-certificates/google-advanced-data-analytics).
-- 💉 I have a banking background of 11 years and experience working with banking, branch performace, loans and advances related data.
+- 🌱 Pursuing [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics).
+- 💉 I have 11 years of experience in the financial industry working with banking, branch performance, loans, and credit-related data.
 
 <p>&nbsp;</p>
 
